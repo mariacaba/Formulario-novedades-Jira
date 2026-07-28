@@ -21,10 +21,10 @@ Cuando de abra tu perfil, pulsa el botón de cono de Create Token
 <img width="888" height="458" alt="image" src="https://github.com/user-attachments/assets/7b9497d9-850b-4188-ae91-df59268d84ab" />
 
 
-Informa en el nombre de token formulario Jira y grabar
+Informa en el nombre de token formulario Jira, modifica los días en los que caduca y grabar
 
-<img width="596" height="696" alt="image" src="https://github.com/user-attachments/assets/9457f17f-c7f4-4d78-8f89-4f47aa99a496" />
+<img width="617" height="637" alt="image" src="https://github.com/user-attachments/assets/9fba6636-ff0e-417e-b7b4-16aa2c2b4cbb" />
 
-Una vez creado el token, copiaremos 
+Una vez creado el token, copiaremos su identificación
 
 <img width="603" height="243" alt="image" src="https://github.com/user-attachments/assets/6c24cebb-03d0-4acb-8cd8-618d1e678682" />
