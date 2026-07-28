@@ -29,4 +29,12 @@ Una vez creado el token, copiaremos su identificación
 
 <img width="603" height="243" alt="image" src="https://github.com/user-attachments/assets/6c24cebb-03d0-4acb-8cd8-618d1e678682" />
 
-Cerramos Jira y pegamos el número de token en el formulario inicial y ya podemos seguir con el alta de novedades
+Cerramos Jira y pegamos el número de token en el formulario inicial y guardamos
+
+<img width="857" height="395" alt="image" src="https://github.com/user-attachments/assets/a5d496eb-bec1-4897-afdf-859a99c1313c" />
+
+Se abre la pantalla de redacción de novedades 
+
+<img width="1631" height="1401" alt="image" src="https://github.com/user-attachments/assets/3678d9fa-3ce5-4022-b421-111c0a5c2c26" />
+
+
