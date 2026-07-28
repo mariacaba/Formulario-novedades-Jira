@@ -53,7 +53,7 @@ Al pulsar el botón de escribir novedad, el proceso buscará el documento en fun
 <img width="821" height="474" alt="image" src="https://github.com/user-attachments/assets/bafe5e24-80a7-4589-b8c4-ab631b8c328c" />
 
 
-
+O muestra los documentos seleccionados en función del check (si S200 ó SDC ó ambos)
 
 <img width="1308" height="443" alt="image" src="https://github.com/user-attachments/assets/9f1488a4-5ac9-4b09-a877-57248258df57" />
 
