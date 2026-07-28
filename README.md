@@ -52,8 +52,8 @@ Al pulsar el botón de escribir novedad, el proceso buscará el documento en fun
 <img width="821" height="474" alt="image" src="https://github.com/user-attachments/assets/bafe5e24-80a7-4589-b8c4-ab631b8c328c" />
 
 
+<img width="1308" height="443" alt="image" src="https://github.com/user-attachments/assets/9f1488a4-5ac9-4b09-a877-57248258df57" />
 
 
-<img width="1631" height="1401" alt="image" src="https://github.com/user-attachments/assets/3678d9fa-3ce5-4022-b421-111c0a5c2c26" />
 
 
