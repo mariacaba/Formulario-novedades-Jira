@@ -37,7 +37,7 @@ Se abre la pantalla de redacción de novedades
 
 Tecleamos la aplicación y el número de incidencia y pulsamos el botón de Obtener descripción de Jira 
 
-Una vez tenemos el texto en el formato de novedades correcto, pulsamos el botón de copiar movedad
+Una vez tenemos el texto en el formato de novedades correcto, pulsamos el botón de copiar novedad
 
 Seleccionamos si es Sage 200 o SDC y informamos la versión en la que se resuelve
 
