@@ -35,6 +35,16 @@ Cerramos Jira y pegamos el número de token en el formulario inicial y guardamos
 
 Se abre la pantalla de redacción de novedades 
 
+Tecleamos la aplicación y el número de incidencia y pulsamos el botón de Obtener descripción de Jira 
+
+Una vez tenemos el texto en el formato de novedades correcto, pulsamos el botón de copiar movedad
+
+Seleccionamos si es Sage 200 o SDC y informamos la versión en la que se resuelve
+
+Al pulsar el botón de escribir novedad, el proceso buscará el documento en función de la selección informada (versión /S200C-SDC) y mostrará el documento por pantalla
+
+
+
 <img width="1631" height="1401" alt="image" src="https://github.com/user-attachments/assets/3678d9fa-3ce5-4022-b421-111c0a5c2c26" />
 
 
