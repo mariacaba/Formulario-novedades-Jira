@@ -18,7 +18,8 @@ Pulsa la opción de Perfil
 
 Cuando de abra tu perfil, pulsa el botón de cono de Create Token 
 
-<img width="1005" height="88" alt="image" src="https://github.com/user-attachments/assets/5796004c-b1f3-4c11-b756-eb1f5cc0f78e" />
+<img width="888" height="458" alt="image" src="https://github.com/user-attachments/assets/7b9497d9-850b-4188-ae91-df59268d84ab" />
+
 
 Informa en el nombre de token formulario Jira y grabar
 
