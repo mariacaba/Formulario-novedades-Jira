@@ -26,3 +26,5 @@ Informa en el nombre de token formulario Jira y grabar
 <img width="596" height="696" alt="image" src="https://github.com/user-attachments/assets/9457f17f-c7f4-4d78-8f89-4f47aa99a496" />
 
 Una vez creado el token, copiaremos 
+
+<img width="603" height="243" alt="image" src="https://github.com/user-attachments/assets/6c24cebb-03d0-4acb-8cd8-618d1e678682" />
