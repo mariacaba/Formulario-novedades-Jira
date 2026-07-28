@@ -49,6 +49,7 @@ Seleccionamos si es Sage 200 o SDC y informamos la versión en la que se resuelv
 Al pulsar el botón de escribir novedad, el proceso buscará el documento en función de la selección informada (versión /S200C-SDC) y mostrará el documento por pantalla o bien nos preguntará por copiar las plantillas 
 
 
+
 <img width="821" height="474" alt="image" src="https://github.com/user-attachments/assets/bafe5e24-80a7-4589-b8c4-ab631b8c328c" />
 
 
