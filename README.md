@@ -28,3 +28,5 @@ Informa en el nombre de token formulario Jira, modifica los días en los que cad
 Una vez creado el token, copiaremos su identificación
 
 <img width="603" height="243" alt="image" src="https://github.com/user-attachments/assets/6c24cebb-03d0-4acb-8cd8-618d1e678682" />
+
+Cerramos Jira y pegamos el número de token en el formulario inicial y ya podemos seguir con el alta de novedades
