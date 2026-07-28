@@ -16,5 +16,6 @@ Pulsa la opción de Perfil
 
 <img width="226" height="80" alt="image" src="https://github.com/user-attachments/assets/8877a560-6e48-4228-9de6-42230d43f0fa" />
 
-Pulsa el icono de Create Token 
+Cuando de abra tu perfil, pulsa el botón de cono de Create Token 
+
 <img width="1005" height="88" alt="image" src="https://github.com/user-attachments/assets/5796004c-b1f3-4c11-b756-eb1f5cc0f78e" />
