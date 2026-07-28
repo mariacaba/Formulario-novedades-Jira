@@ -4,4 +4,4 @@ A partir de un número de incidencia de Jira, la automatización obtiene y forma
 
 La primera vez que ejecutamos la aplicación, nos pide crear un token para poder leer los datos informados en JIRA 
 
-img width="857" height="716" alt="image" src="https://github.com/user-attachments/assets/e00e706d-6bee-4ab4-98df-300bba42144c" />
+<img width="857" height="716" alt="image" src="https://github.com/user-attachments/assets/e00e706d-6bee-4ab4-98df-300bba42144c" />
